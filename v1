@@ -1,5 +1,5 @@
 {
-  "version": 1,
-  "apk": "",
+  "version": 2,
+  "apk": "https://supabase.com/dashboard/project/sjrlecsgmpnxooosfzeb/storage/files/buckets/study-files",
   "releaseNotes": "Fixed the connection bugs and added auto-updater!"
 }
