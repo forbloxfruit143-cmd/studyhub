@@ -1,5 +1,5 @@
 {
-  "version": 1,
-  "apk": "aaaaa",
+  "version": 2,
+  "apk": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR2Z2FnenFla3F6NzdmYjk5eTNld21yMXd5cTYwd3IyY2FocTl1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gw3IWyGkC0rsazTi/giphy.gif",
   "releaseNotes": "Fixed the connection bugs and added New Features!"
 }
